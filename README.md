@@ -275,6 +275,12 @@ int main () {
 ### ⚠ ❗ **Precaucion** ❗ ⚠
 No tomar en cuenta la sentencia **RESET** puede provocar que el background_color se corra a la siguiente linea o al fin de la consola.
 
+## Autores ✒️
+
+_Aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Jesús Alfonzo** - *Programación* - [Alfonzzoj](https://github.com/Alfonzzoj)
+
 ## Colabora 💭
 
 Estan abiertas las colaboraciones para mas colores personalizados.
